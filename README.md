@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @erikawester
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me ... erikarwester@gmail.com
 
 <!---
