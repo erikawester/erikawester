@@ -4,7 +4,7 @@ I'm Erika, a full-stack software engineer with a passion for creating meaningful
 
 Currently, I'm working on KubeEst8, an open-source developer tool designed to monitor the health and security of Kubernetes Clusters.
 
-:handshake: Let's chat: erikarwester@gmail.com or [Linkedin](https://www.linkedin.com/in/erika-wester/) :speech_balloon:
+:briefcase: How to reach me erikarwester@gmail.com or [Linkedin](https://www.linkedin.com/in/erika-wester/) :speech_balloon:
 
 
 <!---
